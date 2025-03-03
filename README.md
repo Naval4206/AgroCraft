@@ -32,7 +32,7 @@
 * BOOTSTRAP
 
 ### Made By
-Rajeev Daga
-Sanchit Bansal
-Namit Kaul
-Naval Sonthalia
+Rajeev Daga<br>
+Sanchit Bansal<br>
+Namit Kaul<br>
+Naval Sonthalia<br>
