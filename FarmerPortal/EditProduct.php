@@ -83,14 +83,11 @@ $sessphonenumber = $_SESSION['phonenumber'];
                                         $product_keywords = $details['product_keywords'];
                                         $product_delivery = $details['product_delivery'];
                                     }
-                                }
-
-
-
-                         
-
-
-                            ?>
+                                                        }
+                                                    ?>
+                        <?php
+                                                }
+                        ?>
 
                             <div class="card-header">
                                 <h4 class="text-center font-weight-bold">Insert Your New Product <i class="fas fa-leaf"></i></h4>

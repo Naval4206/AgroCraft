@@ -8,12 +8,12 @@ const express = require('express');
 const mysql = require('mysql');
 
 const app = express();
-app.listen('3307')
+app.listen('3000')
 const con = mysql.createConnection({
   host: "localhost",
   user: "root",
-  password: "naval",
-  database: "AgroCraft"
+  password: "",
+  database: "agrocraft"
 });
 
 var __slice = [].slice;
